@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there, my name is Michèle 👋
+
+### I am a strategic designer and passionate about brand & product management. Currently I am doing my full stack web development bootcamp @SPICED 🤓
 
 <!--
 **mrietzl/mrietzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
