@@ -2,8 +2,8 @@
 
 ### I am a strategic designer and passionate about brand & product management.
 
+- 🤓 I am currently doing my full stack web development bootcamp at the [spiced academy](https://www.spiced-academy.com/de).
 - 🧡 I did my master degree in #strategigdesign, my bachelor degree in communication design.
-- 🤓 I am currently doing my full stack web development bootcamp @spicedacademy
 
 <!--
 **mrietzl/mrietzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
