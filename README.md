@@ -8,9 +8,9 @@
 - 🌱 I also love being active and spending time in the nature, for example to go skiing with friends and family. ⛷
 - 💬 Ask me about how to cook healthy … I have already created plenty of recipes for easy dishes. 🥗
 
---
+---
 
-### Feel free to contact me:
+### Feel free to contact me 👉 
 
 
 <!--
