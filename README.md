@@ -5,12 +5,12 @@
 - 🤓 I am currently doing my full stack web development bootcamp at the [spiced academy](https://www.spiced-academy.com/de).
 - 🧡 I did my master's degree in strategic design and my bachelor's degree in communication design; both at the [Hochschule für Gestaltung Schwäbisch Gmünd](https://www.hfg-gmuend.de/).
 - 🧘‍♀️ In my free time I love doing yoga.
-- 🌱 I also love being active and spending time in the nature, for example to go skiing with friends and family. ⛷
+- 🌱 I am also a very active person and like to spend time in the nature, for example for going skiing with friends and family. ⛷
 - 💬 Ask me about how to cook healthy … I have already created plenty of recipes for easy dishes. 🥗
 
 ---
 
-### Feel free to contact me 👉 
+### Feel free to contact me:
 
 
 <!--
