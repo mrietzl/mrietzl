@@ -1,6 +1,9 @@
 ## Hi there, my name is Michèle 👋
 
-### I am a strategic designer and passionate about brand & product management. Currently I am doing my full stack web development bootcamp @SPICED 🤓
+### I am a strategic designer and passionate about brand & product management.
+
+- 🧡 I did my master degree in #strategigdesign, my bachelor degree in communication design.
+- 🤓 I am currently doing my full stack web development bootcamp @spicedacademy
 
 <!--
 **mrietzl/mrietzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
