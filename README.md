@@ -3,7 +3,7 @@
 ### I am a strategic designer and passionate about brand & product management.
 
 - 🤓 I am currently doing my full stack web development bootcamp at the [spiced academy](https://www.spiced-academy.com/de).
-- 🧡 I did my master degree in strateg design and my bachelor degree in communication design at the [Hochschule für Gestaltung Schwäbisch Gmünd](https://www.hfg-gmuend.de/).
+- 🧡 I did my master's degree in strateg design and my bachelor's degree in communication design; both at the [Hochschule für Gestaltung Schwäbisch Gmünd](https://www.hfg-gmuend.de/).
 
 <!--
 **mrietzl/mrietzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
