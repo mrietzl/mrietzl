@@ -4,6 +4,9 @@
 
 - 🤓 I am currently doing my full stack web development bootcamp at the [spiced academy](https://www.spiced-academy.com/de).
 - 🧡 I did my master's degree in strateg design and my bachelor's degree in communication design; both at the [Hochschule für Gestaltung Schwäbisch Gmünd](https://www.hfg-gmuend.de/).
+- 🧘‍♀️ In my free time I love doing yoga.
+- 🌱 I also love being active and spending time in the nature, for example to go skiing or hiking with friends and family.
+- 💬 Ask me about how to cook healthy … I have plenty of recipes for easy dishes.
 
 <!--
 **mrietzl/mrietzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
