@@ -16,7 +16,9 @@
 
 
 <details>
-<summary>Stack</summary>
+<summary>Web Development</summary>
+<summary>Design</summary>
+<summary>Others</summary>  
 
 
 <!--
