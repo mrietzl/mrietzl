@@ -2,7 +2,7 @@
 
 ### I am a strategic designer and passionate about brand & product management.
 
-- 🤓 I am currently doing my full stack web development bootcamp 👩🏼‍💻 at the [spiced academy](<a target="_blank">https://www.spiced-academy.com/de</a>).
+- 🤓 I am currently doing my full stack web development bootcamp 👩🏼‍💻 at the (<a href="https://www.spiced-academy.com/de" target="_blank">spiced academy</a>).
 - 🧡 I did my master's degree in strategic design and my bachelor's degree in communication design; both at the [Hochschule für Gestaltung Schwäbisch Gmünd](https://www.hfg-gmuend.de/).
 - 🧘‍♀️ In my free time I love doing yoga.
 - 🌱 I am also a very active person and like to spend time in the nature, for example to go skiing with friends and family. ⛷
