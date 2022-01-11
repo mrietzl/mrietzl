@@ -15,6 +15,9 @@
 ### My skills and toolkit:
 
 
+<details>
+<summary>Stack</summary>
+
 
 <!--
 **mrietzl/mrietzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
