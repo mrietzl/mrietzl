@@ -17,12 +17,15 @@
 
 <details>
 <summary>Web Development</summary>
+</details>
   
 <details>
 <summary>Design</summary>
+</details>
   
  <details>
-<summary>Others</summary>  
+<summary>Others</summary> 
+</details>
 
 
 <!--
