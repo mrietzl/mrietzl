@@ -1,0 +1,20 @@
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle-path_5" data-name="Rectangle-path 5" class="cls-1" x="13.75" y="13.75" width="22.5" height="22.5" rx="6"/>
+  <path id="Oval_8" data-name="Oval 8" class="cls-1" d="M25,30a5,5,0,1,0-5-5A5,5,0,0,0,25,30Z"/>
+  <circle class="cls-2" cx="31.85" cy="18.15" r="1.25"/>
+</svg>
