@@ -12,6 +12,8 @@
 
 ### Feel free to contact me:
 
+![<img align="left" alt="linkedin" width="25px" src="2022-01-11-github-icons_icon-linkedin.svg"](https://www.linkedin.com/in/mich%C3%A8le-rietzl-3730211b9/)
+
 
 <!--
 **mrietzl/mrietzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
