@@ -12,7 +12,9 @@
 
 ### Feel free to contact me:
 
-[![2022-01-11-github-icons_icon-linkedin.svg](https://raw.githubusercontent.com/mrietzl/mrietzl/main/2022-01-11-github-icons_icon-linkedin.svg){:target="_blank" rel="noopener"}](https://www.linkedin.com/in/mich%C3%A8le-rietzl-3730211b9/)
+[![2022-01-11-github-icons_icon-linkedin.svg](https://raw.githubusercontent.com/mrietzl/mrietzl/main/2022-01-11-github-icons_icon-linkedin.svg)](https://www.linkedin.com/in/mich%C3%A8le-rietzl-3730211b9/)
+
+[![2022-01-11-github-icons_icon-instagram.svg](https://raw.githubusercontent.com/mrietzl/mrietzl/main/2022-01-11-github-icons_icon-linkedin.svg)](https://www.instagram.com/mk_rietzl/)
 
 
 <!--
