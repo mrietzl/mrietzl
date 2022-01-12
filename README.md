@@ -28,6 +28,9 @@
 
 <details>
 <summary>Web Development</summary>
+ 
+---
+
 - Visual Studio Code
 - html
 - css
@@ -48,6 +51,9 @@
   - Ps
   - Ai
   - Premiere Rush
+  
+---
+  
 </details>
 
 <details>  
