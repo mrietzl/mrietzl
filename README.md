@@ -42,6 +42,9 @@
 - [aws (amazon web services)]
 - [react]
 - [tailwindcss]
+ 
+---
+
 </details>
   
 <details>
@@ -52,7 +55,6 @@
   - Ai
   - Premiere Rush
   
----
   
 </details>
 
