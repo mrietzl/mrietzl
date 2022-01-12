@@ -31,6 +31,7 @@
 - express
 - sql
 - vue.js
+- jest
 - [aws (amazon web services)]
 - [react]
 - [tailwindcss]
