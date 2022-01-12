@@ -17,11 +17,8 @@
 <details>
 <summary>Web Development</summary>
 
-</br>
-
 <img src="visual-studio-code.png" height="100px"/>
 
- 
 - Visual Studio Code
 - html (5)
 - css (4)
