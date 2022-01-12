@@ -19,7 +19,7 @@
 
 </br>
 
-<img src="2022-01-11-github-icons_icon-visual-studio-code-new-2.png" height="30px"/>
+<img src="2022-01-11-github-icons_icon-visual-studio-code-new-2.png" />
  
 - Visual Studio Code
 - html (5)
