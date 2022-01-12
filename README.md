@@ -17,7 +17,7 @@
 <details>
 <summary>Web Development</summary>
 
-<a href="https://code.visualstudio.com/" target="blank"> <img src="visual-studio-code.png" height="100px" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="visual-studio-code.png" height="100px" /></a>
 
 - Visual Studio Code
 - html (5)
