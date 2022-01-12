@@ -16,17 +16,17 @@
 
 <details>
 <summary>Web Development</summary>
-  - Visual Studio Code
-  - html
-  - css
-  - js
-  - jquerry
-  - node.js
-  - sql
-  - vue.js
-  - [aws (amazon web services)]
-  - [react]
-  - [tailwindcss]
+- Visual Studio Code
+- html
+- css
+- js
+- jquerry
+- node.js
+- sql
+- vue.js
+- [aws (amazon web services)]
+- [react]
+- [tailwindcss]
   
 </details>
   
