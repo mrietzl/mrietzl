@@ -17,11 +17,9 @@
 <details>
 <summary>Web Development</summary>
 
-<a href="https://code.visualstudio.com/" > <img src="visual-studio-code.png" height="100px" /></a>
-<a href="https://code.visualstudio.com/" > <img src="html-5.png" height="100px" /></a>
+<a href="https://code.visualstudio.com/" > <img src="visual-studio-code.png" height="75px" /></a>
+<a href="https://code.visualstudio.com/" > <img src="html-5.png" height="75px" /></a>
 
-- Visual Studio Code
-- html (5)
 - css (4)
 - js (ECMA Script 2021)
 - jquerry
