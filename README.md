@@ -53,14 +53,17 @@
 
 <details>  
 <summary>Others</summary>
+  
+
+<a href="https://www.microsoft.com/de-de/microsoft-365/word" > <img src="others-microsoft-word.png" height="75px" /></a>
+<a href="https://www.microsoft.com/de-de/microsoft-365/excel" > <img src="others-microsoft-exel.png" height="75px" /></a>
+<a href="https://www.microsoft.com/de-de/microsoft-365/powerpoint" > <img src="others-microsoft-powerpoint.png" height="75px" /></a>
+<a href="https://www.atlassian.com/de/software/jira" > <img src="others-atlassian-jira.png" height="75px" /></a>
+<a href="https://www.atlassian.com/de/software/confluence" > <img src="others-atlassian-confluence.png" height="75px" /></a>
  
 </br>
  
-  - Microsoft Word
-  - Microsoft Excel
-  - Microsoft PowerPoint
-  - Atlassian Jira
-  - Atlassian Confluence
+
 
 </br>
 
@@ -103,6 +106,12 @@ Here are some ideas to get you started:
 - Ps
 - Ai
 - Ru
+
+- Microsoft Word
+- Microsoft Excel
+- Microsoft PowerPoint
+- Atlassian Jira
+- Atlassian Confluence
 
 <img src="2022-01-11-github-icons_icon-visual-studio-code-new.png" height="30px"/>
   
