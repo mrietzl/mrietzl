@@ -28,6 +28,8 @@
 
 <details>
 <summary>Web Development</summary>
+
+</br>
  
 - Visual Studio Code
 - html
