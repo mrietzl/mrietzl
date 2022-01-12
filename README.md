@@ -10,14 +10,15 @@
 
 ### Feel free to contact me:
 
-[![2022-01-11-github-icons_icon-linkedin-lightmodus.svg](/2022-01-11-github-icons_icon-linkedin-lightmodus.svg)](https://www.linkedin.com/in/mich%C3%A8le-rietzl-3730211b9/#gh-light-mode-only){:target="_blank" rel="noopener"} [![2022-01-11-github-icons_icon-instagram-lightmodus.svg](/2022-01-11-github-icons_icon-instagram-lightmodus.svg)](https://www.instagram.com/mk_rietzl/#gh-light-mode-only) [![2022-01-11-github-icons_icon-email-lightmodus.svg](2022-01-11-github-icons_icon-email-lightmodus.svg)](mailto:michele@mk-rietzl.de#gh-light-mode-only)[![2022-01-11-github-icons_icon-linkedin-darkmodus.svg](/2022-01-11-github-icons_icon-linkedin-darkmodus.svg)](https://www.linkedin.com/in/mich%C3%A8le-rietzl-3730211b9/#gh-dark-mode-only) [![2022-01-11-github-icons_icon-instagram-darkmodus.svg](/2022-01-11-github-icons_icon-instagram-darkmodus.svg)](https://www.instagram.com/mk_rietzl/#gh-dark-mode-only) [![2022-01-11-github-icons_icon-email-darkmodus.svg](2022-01-11-github-icons_icon-email-darkmodus.svg)](mailto:michele@mk-rietzl.de#gh-dark-mode-only)
+[![2022-01-11-github-icons_icon-linkedin-lightmodus.svg](/2022-01-11-github-icons_icon-linkedin-lightmodus.svg)](https://www.linkedin.com/in/mich%C3%A8le-rietzl-3730211b9/#gh-light-mode-only) [![2022-01-11-github-icons_icon-instagram-lightmodus.svg](/2022-01-11-github-icons_icon-instagram-lightmodus.svg)](https://www.instagram.com/mk_rietzl/#gh-light-mode-only) [![2022-01-11-github-icons_icon-email-lightmodus.svg](2022-01-11-github-icons_icon-email-lightmodus.svg)](mailto:michele@mk-rietzl.de#gh-light-mode-only)[![2022-01-11-github-icons_icon-linkedin-darkmodus.svg](/2022-01-11-github-icons_icon-linkedin-darkmodus.svg)](https://www.linkedin.com/in/mich%C3%A8le-rietzl-3730211b9/#gh-dark-mode-only) [![2022-01-11-github-icons_icon-instagram-darkmodus.svg](/2022-01-11-github-icons_icon-instagram-darkmodus.svg)](https://www.instagram.com/mk_rietzl/#gh-dark-mode-only) [![2022-01-11-github-icons_icon-email-darkmodus.svg](2022-01-11-github-icons_icon-email-darkmodus.svg)](mailto:michele@mk-rietzl.de#gh-dark-mode-only)
 
 ### My skills and toolkit:
 
 <details>
 <summary>Web Development</summary>
 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="visual-studio-code.png" height="100px" /></a>
+<a href="https://code.visualstudio.com/" > <img src="visual-studio-code.png" height="100px" /></a>
+<a href="https://code.visualstudio.com/" > <img src="html-5.png" height="100px" /></a>
 
 - Visual Studio Code
 - html (5)
