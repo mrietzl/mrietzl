@@ -20,6 +20,10 @@
   
 ![Visual Studio Code](2022-01-11-github-icons_icon-visual-studio-code.png)
   
+  size="4
+  
+<img src="2022-01-11-github-icons_icon-visual-studio-code.png" size="0,25"/>
+  
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   
 </details>
