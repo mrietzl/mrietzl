@@ -20,6 +20,10 @@
  </br>
 
 <a href="https://code.visualstudio.com/" > <img src="web-development-visual-studio-code.png" height="75px" /></a>
+<a href="https://developer.mozilla.org/de/docs/Glossary/HTML5" > <img src="web-development-html-5.png" height="75px" /></a>
+<a href="https://developer.mozilla.org/de/docs/Web/CSS" > <img src="web-development-css-3.png" height="75px" /></a>
+<a> <img src="web-development-js.png" height="75px" /></a>
+<a href="https://jquery.com/" > <img src="web-development-jquerry.png" height="75px" /></a>
 
 - css (4)
 - js (ECMA Script 2021)
