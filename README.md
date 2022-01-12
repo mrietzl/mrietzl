@@ -16,6 +16,8 @@
 
 <details>
 <summary>Web Development</summary>
+  
+ </br>
 
 <a href="https://code.visualstudio.com/" > <img src="skill-visual-studio-code.png" height="75px" /></a>
 <a href="https://code.visualstudio.com/" > <img src="skill-visual-studio-code.png" height="75px" /></a>
