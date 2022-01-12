@@ -19,7 +19,7 @@
 
 </br>
 
-<img src="Zeichenfläche.png" height="100px"/>
+<img src="visual-studio-code.png" height="100px"/>
 
  
 - Visual Studio Code
