@@ -19,10 +19,7 @@
   
  </br>
 
-<a href="https://code.visualstudio.com/" > <img src="skill-visual-studio-code.png" height="75px" /></a>
-<a href="https://code.visualstudio.com/" > <img src="skill-visual-studio-code.png" height="75px" /></a>
-<a href="https://code.visualstudio.com/" > <img src="visual-studio-code.png" height="75px" /></a>
-<a href="https://code.visualstudio.com/" > <img src="html-5.png" height="75px" /></a>
+<a href="https://code.visualstudio.com/" > <img src="web-development-visual-studio-code.png" height="75px" /></a>
 
 - css (4)
 - js (ECMA Script 2021)
@@ -30,7 +27,7 @@
 - node.js
 - express
 - handlebars
-- sql
+- PostgreSQL
 - vue.js
 - jest
 - [aws (amazon web services)]
