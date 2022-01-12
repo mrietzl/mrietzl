@@ -29,8 +29,6 @@
 <details>
 <summary>Web Development</summary>
  
----
-
 - Visual Studio Code
 - html
 - css
