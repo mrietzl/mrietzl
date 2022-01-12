@@ -29,6 +29,7 @@
 - jquerry
 - node.js
 - express
+- handlebars
 - sql
 - vue.js
 - jest
