@@ -14,23 +14,40 @@
 
 ### My skills and toolkit:
 
-
 <details>
 <summary>Web Development</summary>
-  
-<img src="2022-01-11-github-icons_icon-visual-studio-code-new.png" height="30px"/>
-  
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  - Visual Studio Code
+  - html
+  - css
+  - js
+  - jquerry
+  - node.js
+  - sql
+  - vue.js
+  - [aws (amazon web services)]
+  - [react]
+  - [tailwindcss]
   
 </details>
   
 <details>
 <summary>Design</summary>
 </details>
+  - Id
+  - Xd
+  - Ps
+  - Ai
+  - Premiere Rush
   
- <details>
+<details>
+  
 <summary>Others</summary> 
 </details>
+  - Microsoft Word
+  - Microsoft Excel
+  - Microsoft PowerPoint
+  - Atlassian Jira
+  - Atlassian Confluence
 
 
 <!--
@@ -46,4 +63,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="2022-01-11-github-icons_icon-visual-studio-code-new.png" height="30px"/>
+  
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
 -->
