@@ -20,11 +20,12 @@
 </br>
  
 - Visual Studio Code
-- html
-- css
-- js
+- html (5)
+- css (4)
+- js (ECMA Script 2021)
 - jquerry
 - node.js
+- express
 - sql
 - vue.js
 - [aws (amazon web services)]
