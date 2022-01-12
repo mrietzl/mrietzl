@@ -31,6 +31,8 @@
 - [react]
 - [tailwindcss]
 
+</br>
+
 </details>
   
 <details>
@@ -43,6 +45,8 @@
   - Ps
   - Ai
   - Premiere Rush
+
+</br>
   
 </details>
 
@@ -56,6 +60,8 @@
   - Microsoft PowerPoint
   - Atlassian Jira
   - Atlassian Confluence
+
+</br>
 
 </details>
 
