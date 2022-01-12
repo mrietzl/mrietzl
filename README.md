@@ -27,27 +27,25 @@
 - [aws (amazon web services)]
 - [react]
 - [tailwindcss]
-  
 </details>
   
 <details>
 <summary>Design</summary>
-</details>
   - Id
   - Xd
   - Ps
   - Ai
   - Premiere Rush
-  
-<details>
-  
-<summary>Others</summary> 
 </details>
+
+<details>  
+<summary>Others</summary> 
   - Microsoft Word
   - Microsoft Excel
   - Microsoft PowerPoint
   - Atlassian Jira
   - Atlassian Confluence
+</details>
 
 
 <!--
