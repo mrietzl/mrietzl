@@ -34,7 +34,6 @@
 <a href="https://reactjs.org/" > <img src="web-development-react.png" height="75px" /></a>
 <a href="https://tailwindcss.com//" > <img src="web-development-tailwindcss.png" height="75px" /></a>
 
-</br>
 
 </details>
   
@@ -42,14 +41,13 @@
 <summary>Design</summary>
  
 </br>
- 
-  - Id
-  - Xd
-  - Ps
-  - Ai
-  - Premiere Rush
 
-</br>
+<a href="https://www.adobe.com/de/products/indesign.html" > <img src="design-Id.png" height="75px" /></a>
+<a href="https://www.adobe.com/de/products/xd.html" > <img src="design-Xd.png" height="75px" /></a>
+<a href="https://www.adobe.com/de/products/illustrator.html" > <img src="design-Ai.png" height="75px" /></a>
+<a href="https://www.adobe.com/de/products/photoshop.html" > <img src="design-Ps.png" height="75px" /></a>
+<a href="https://www.adobe.com/de/products/premiere-rush.html" > <img src="design-Ru.png" height="75px" /></a>
+
   
 </details>
 
@@ -99,6 +97,12 @@ Here are some ideas to get you started:
 - [tailwindcss]
 - Heroku??
 - GitHub??
+
+- Id
+- Xd
+- Ps
+- Ai
+- Ru
 
 <img src="2022-01-11-github-icons_icon-visual-studio-code-new.png" height="30px"/>
   
