@@ -29,7 +29,7 @@
 <a href="https://handlebarsjs.com/" > <img src="web-development-handlebars.png" height="75px" /></a>
 <a href="https://www.postgresql.org/" > <img src="web-development-PostgreSQL.png" height="75px" /></a>
 <a href="https://vuejs.org/" > <img src="web-development-vue-js.png" height="75px" /></a>
-<a href="https://jestjs.io/" > <img src="web-development-jest.png" height="75px" /></a>
+<a href="https://jestjs.io/" > <img src="web-development-jest-js.png" height="75px" /></a>
 <a href="https://aws.amazon.com/" > <img src="web-development-aws.png" height="75px" /></a>
 <a href="https://reactjs.org/" > <img src="web-development-react.png" height="75px" /></a>
 <a href="https://tailwindcss.com//" > <img src="web-development-tailwindcss.png" height="75px" /></a>
