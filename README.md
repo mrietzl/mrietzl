@@ -34,6 +34,7 @@
 - [aws (amazon web services)]
 - [react]
 - [tailwindcss]
+- [heroku??]
 
 </br>
 
