@@ -14,18 +14,6 @@
 
 ### My skills and toolkit:
 
-- Visual Studio Code
-- html
-- css
-- js
-- jquerry
-- node.js
-- sql
-- vue.js
-- [aws (amazon web services)]
-- [react]
-- [tailwindcss]
-
 <details>
 <summary>Web Development</summary>
 
@@ -42,29 +30,33 @@
 - [aws (amazon web services)]
 - [react]
 - [tailwindcss]
- 
----
 
 </details>
   
 <details>
 <summary>Design</summary>
+ 
+</br>
+ 
   - Id
   - Xd
   - Ps
   - Ai
   - Premiere Rush
   
-  
 </details>
 
 <details>  
-<summary>Others</summary> 
+<summary>Others</summary>
+ 
+</br>
+ 
   - Microsoft Word
   - Microsoft Excel
   - Microsoft PowerPoint
   - Atlassian Jira
   - Atlassian Confluence
+
 </details>
 
 
