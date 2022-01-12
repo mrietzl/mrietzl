@@ -24,20 +24,15 @@
 <a href="https://developer.mozilla.org/de/docs/Web/CSS" > <img src="web-development-css-3.png" height="75px" /></a>
 <a> <img src="web-development-js.png" height="75px" /></a>
 <a href="https://jquery.com/" > <img src="web-development-jquerry.png" height="75px" /></a>
-
-- css (4)
-- js (ECMA Script 2021)
-- jquerry
-- node.js
-- express
-- handlebars
-- PostgreSQL
-- vue.js
-- jest
-- [aws (amazon web services)]
-- [react]
-- [tailwindcss]
-- [heroku??]
+<a href="https://nodejs.org/en/" > <img src="web-development-node-js.png" height="75px" /></a>
+<a href="http://expressjs.com/" > <img src="web-development-express.png" height="75px" /></a>
+<a href="https://handlebarsjs.com/" > <img src="web-development-handlebars.png" height="75px" /></a>
+<a href="https://www.postgresql.org/" > <img src="web-development-PostgreSQL.png" height="75px" /></a>
+<a href="https://vuejs.org/" > <img src="web-development-vue-js.png" height="75px" /></a>
+<a href="https://jestjs.io/" > <img src="web-development-jest.png" height="75px" /></a>
+<a href="https://aws.amazon.com/" > <img src="web-development-aws.png" height="75px" /></a>
+<a href="https://reactjs.org/" > <img src="web-development-react.png" height="75px" /></a>
+<a href="https://tailwindcss.com//" > <img src="web-development-tailwindcss.png" height="75px" /></a>
 
 </br>
 
@@ -87,6 +82,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- visual studio code
+- html (5)
+- css (4)
+- js (ECMA Script 2021)
+- jquerry
+- node.js
+- express
+- handlebars
+- PostgreSQL
+- vue.js
+- jest
+- [aws (amazon web services)]
+- [react]
+- [tailwindcss]
+- [heroku??]
 
 <img src="2022-01-11-github-icons_icon-visual-studio-code-new.png" height="30px"/>
   
