@@ -19,7 +19,7 @@
 
 </br>
 
-<img src="2022-01-11-github-icons_icon-visual-studio-code-new-2.png" />
+<img src="Zeichenfläche 1.png" />
  
 - Visual Studio Code
 - html (5)
