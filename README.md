@@ -97,7 +97,8 @@ Here are some ideas to get you started:
 - [aws (amazon web services)]
 - [react]
 - [tailwindcss]
-- [heroku??]
+- Heroku??
+- GitHub??
 
 <img src="2022-01-11-github-icons_icon-visual-studio-code-new.png" height="30px"/>
   
