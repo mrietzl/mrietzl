@@ -10,7 +10,7 @@
 
 ### Feel free to contact me:
 
-[![2022-01-11-github-icons_icon-linkedin-lightmodus.svg](/2022-01-11-github-icons_icon-linkedin-lightmodus.svg)](https://www.linkedin.com/in/mich%C3%A8le-rietzl-3730211b9/#gh-light-mode-only) [![2022-01-11-github-icons_icon-instagram-lightmodus.svg](/2022-01-11-github-icons_icon-instagram-lightmodus.svg)](https://www.instagram.com/mk_rietzl/#gh-light-mode-only) [![2022-01-11-github-icons_icon-email-lightmodus.svg](2022-01-11-github-icons_icon-email-lightmodus.svg)](mailto:michele@mk-rietzl.de#gh-light-mode-only)[![2022-01-11-github-icons_icon-linkedin-darkmodus.svg](/2022-01-11-github-icons_icon-linkedin-darkmodus.svg)](https://www.linkedin.com/in/mich%C3%A8le-rietzl-3730211b9/#gh-dark-mode-only) [![2022-01-11-github-icons_icon-instagram-darkmodus.svg](/2022-01-11-github-icons_icon-instagram-darkmodus.svg)](https://www.instagram.com/mk_rietzl/#gh-dark-mode-only) [![2022-01-11-github-icons_icon-email-darkmodus.svg](2022-01-11-github-icons_icon-email-darkmodus.svg)](mailto:michele@mk-rietzl.de#gh-dark-mode-only)
+[![2022-01-11-github-icons_icon-linkedin-lightmodus-new.svg](/2022-01-11-github-icons_icon-linkedin-lightmodus-new.svg)](https://www.linkedin.com/in/mich%C3%A8le-rietzl-3730211b9/#gh-light-mode-only) [![2022-01-11-github-icons_icon-instagram-lightmodus.svg](/2022-01-11-github-icons_icon-instagram-lightmodus.svg)](https://www.instagram.com/mk_rietzl/#gh-light-mode-only) [![2022-01-11-github-icons_icon-email-lightmodus.svg](2022-01-11-github-icons_icon-email-lightmodus.svg)](mailto:michele@mk-rietzl.de#gh-light-mode-only)[![2022-01-11-github-icons_icon-linkedin-darkmodus-new.svg](/2022-01-11-github-icons_icon-linkedin-darkmodus-new.svg)](https://www.linkedin.com/in/mich%C3%A8le-rietzl-3730211b9/#gh-dark-mode-only) [![2022-01-11-github-icons_icon-instagram-darkmodus.svg](/2022-01-11-github-icons_icon-instagram-darkmodus.svg)](https://www.instagram.com/mk_rietzl/#gh-dark-mode-only) [![2022-01-11-github-icons_icon-email-darkmodus.svg](2022-01-11-github-icons_icon-email-darkmodus.svg)](mailto:michele@mk-rietzl.de#gh-dark-mode-only)
 
 ### My skills and toolkit:
 
@@ -33,6 +33,7 @@
 <a href="https://aws.amazon.com/" > <img src="web-development-aws.png" height="75px" /></a>
 <a href="https://reactjs.org/" > <img src="web-development-react.png" height="75px" /></a>
 <a href="https://tailwindcss.com//" > <img src="web-development-tailwindcss.png" height="75px" /></a>
+<a href="https://www.heroku.com/" > <img src="web-development-heroku.png" height="75px" /></a>
 
 
 </details>
