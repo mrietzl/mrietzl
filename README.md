@@ -19,42 +19,42 @@
 
 </br>
     
-   **Frontend**
+**Frontend**
   
-   <!-- Babel -->
-    <a href="https://developer.mozilla.org/de/docs/Web/CSS" > <img src="web-development-css-3.png" height="75px" /></a>
-    <a href="https://developer.mozilla.org/de/docs/Glossary/HTML5" > <img src="web-development-html-5.png" height="75px" /></a>
-    <a href="https://jquery.com/" > <img src="web-development-jquerry.png" height="75px" /></a>
-    <a href="https://reactjs.org/" > <img src="web-development-react.png" height="75px" /></a>
-    <!-- Redux -->
-    <a href="https://tailwindcss.com//" > <img src="web-development-tailwindcss.png" height="75px" /></a>
-    <a href="https://vuejs.org/" > <img src="web-development-vue-js.png" height="75px" /></a>
-   <!-- Webpack -->
+<a href="https://babeljs.io/" > <img src="web-development-babel.png" height="75px" /></a>
+<a href="https://developer.mozilla.org/de/docs/Web/CSS" > <img src="web-development-css-3.png" height="75px" /></a>
+<a href="https://developer.mozilla.org/de/docs/Glossary/HTML5" > <img src="web-development-html-5.png" height="75px" /></a>
+<a href="https://jquery.com/" > <img src="web-development-jquerry.png" height="75px" /></a>
+<a href="https://reactjs.org/" > <img src="web-development-react.png" height="75px" /></a>
+<a href="https://redux.js.org/" > <img src="web-development-redux.png" height="75px" /></a>
+<a href="https://tailwindcss.com//" > <img src="web-development-tailwindcss.png" height="75px" /></a>
+<a href="https://vuejs.org/" > <img src="web-development-vue-js.png" height="75px" /></a>
+<!-- Webpack -->
   
   
-> Backend
+**Backend**
 
 <a href="https://aws.amazon.com/" > <img src="web-development-aws.png" height="75px" /></a>
 <a href="http://expressjs.com/" > <img src="web-development-express.png" height="75px" /></a>
 <a href="https://nodejs.org/en/" > <img src="web-development-node-js.png" height="75px" /></a>
 <a href="https://www.postgresql.org/" > <img src="web-development-PostgreSQL.png" height="75px" /></a>
-<!-- SQL -->
+<img src="web-development-sql.png" height="75px" />
 
   
-==Frontend & Backend==
+**Frontend & Backend**
 
-<!-- ES6 -->
+<a href="https://www.w3schools.com/js/js_es6.asp" > <img src="web-development-es6.png" height="75px" /></a>
 <a href="https://handlebarsjs.com/" > <img src="web-development-handlebars.png" height="75px" /></a>
-<!-- HTTP -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" > <img src="web-development-http.png" height="75px" /></a>
 <a href="https://jestjs.io/" > <img src="web-development-jest-js.png" height="75px" /></a>
 <a href="https://tc39.es/ecma262/" > <img src="web-development-js.png" height="75px" /></a>
-<!-- JSON -->
+<a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON" > <img src="web-development-json.png" height="75px" /></a>
 <!-- Testing -->
-<!-- TypeScript -->
+<a href="https://www.typescriptlang.org/" > <img src="web-development-typescript.png" height="75px" /></a>
 <a href="https://code.visualstudio.com/" > <img src="web-development-visual-studio-code.png" height="75px" /></a>
 
   
-`Others`
+**Others**
   
 <a href="https://www.heroku.com/" > <img src="web-development-heroku.png" height="75px" /></a>
 
