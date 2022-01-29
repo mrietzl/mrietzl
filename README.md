@@ -19,17 +19,17 @@
 
 </br>
     
-*Frontend*
+   **Frontend**
   
-<!-- Babel -->
-<a href="https://developer.mozilla.org/de/docs/Web/CSS" > <img src="web-development-css-3.png" height="75px" /></a>
-<a href="https://developer.mozilla.org/de/docs/Glossary/HTML5" > <img src="web-development-html-5.png" height="75px" /></a>
-<a href="https://jquery.com/" > <img src="web-development-jquerry.png" height="75px" /></a>
-<a href="https://reactjs.org/" > <img src="web-development-react.png" height="75px" /></a>
-<!-- Redux -->
-<a href="https://tailwindcss.com//" > <img src="web-development-tailwindcss.png" height="75px" /></a>
-<a href="https://vuejs.org/" > <img src="web-development-vue-js.png" height="75px" /></a>
-<!-- Webpack -->
+   <!-- Babel -->
+    <a href="https://developer.mozilla.org/de/docs/Web/CSS" > <img src="web-development-css-3.png" height="75px" /></a>
+    <a href="https://developer.mozilla.org/de/docs/Glossary/HTML5" > <img src="web-development-html-5.png" height="75px" /></a>
+    <a href="https://jquery.com/" > <img src="web-development-jquerry.png" height="75px" /></a>
+    <a href="https://reactjs.org/" > <img src="web-development-react.png" height="75px" /></a>
+    <!-- Redux -->
+    <a href="https://tailwindcss.com//" > <img src="web-development-tailwindcss.png" height="75px" /></a>
+    <a href="https://vuejs.org/" > <img src="web-development-vue-js.png" height="75px" /></a>
+   <!-- Webpack -->
   
   
 > Backend
@@ -78,6 +78,7 @@
 <details>  
 <summary>Others</summary>
   
+</br>
 
 <a href="https://www.microsoft.com/de-de/microsoft-365/word" > <img src="others-microsoft-word.png" height="75px" /></a>
 <a href="https://www.microsoft.com/de-de/microsoft-365/excel" > <img src="others-microsoft-exel.png" height="75px" /></a>
@@ -85,7 +86,6 @@
 <a href="https://www.atlassian.com/de/software/jira" > <img src="others-atlassian-jira.png" height="75px" /></a>
 <a href="https://www.atlassian.com/de/software/confluence" > <img src="others-atlassian-confluence.png" height="75px" /></a>
  
-</br>
  
 </br>
 
