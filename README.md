@@ -49,7 +49,6 @@
 <a href="https://jestjs.io/" > <img src="web-development-jest-js.png" height="75px" /></a>
 <a href="https://tc39.es/ecma262/" > <img src="web-development-js.png" height="75px" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON" > <img src="web-development-json.png" height="75px" /></a>
-<!-- Testing -->
 <a href="https://www.typescriptlang.org/" > <img src="web-development-typescript.png" height="75px" /></a>
 <a href="https://code.visualstudio.com/" > <img src="web-development-visual-studio-code.png" height="75px" /></a>
 
