@@ -22,14 +22,14 @@
 **Frontend**
   
 <a href="https://babeljs.io/" > <img src="web-development-babel.png" height="75px" /></a>
-<a href="https://developer.mozilla.org/de/docs/Web/CSS" > <img src="web-development-css-3.png" height="75px" /></a>
-<a href="https://developer.mozilla.org/de/docs/Glossary/HTML5" > <img src="web-development-html-5.png" height="75px" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" > <img src="web-development-css-3.png" height="75px" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" > <img src="web-development-html-5.png" height="75px" /></a>
 <a href="https://jquery.com/" > <img src="web-development-jquerry.png" height="75px" /></a>
 <a href="https://reactjs.org/" > <img src="web-development-react.png" height="75px" /></a>
 <a href="https://redux.js.org/" > <img src="web-development-redux.png" height="75px" /></a>
 <a href="https://tailwindcss.com//" > <img src="web-development-tailwindcss.png" height="75px" /></a>
 <a href="https://vuejs.org/" > <img src="web-development-vue-js.png" height="75px" /></a>
-<!-- Webpack -->
+<a href="https://webpack.js.org/" > <img src="web-development-webpack.png" height="75px" /></a>
   
   
 **Backend**
